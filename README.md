@@ -4,7 +4,7 @@
 
 First Commit is a single-page web app with seven short lessons. You type Git commands into a practice terminal, and four live panels show what happens to your files after every command. When something goes wrong, the app explains why in plain words.
 
-![Lesson screen: steps on the left, practice terminal and four panels on the right](docs/screenshot.png)
+![Lesson screen: steps on the left, practice terminal and four panels on the right](screenshot.png)
 <!-- Replace docs/screenshot.png with a screenshot of the running app. -->
 
 ## Who it is for
