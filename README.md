@@ -132,7 +132,3 @@ Fixes and new lessons are welcome. Before opening a pull request:
 3. Play through the lesson you touched in a browser.
 
 Good lesson ideas: `.gitignore`, merge conflicts, `git clone`, forks.
-
-## License
-
-Add a license before publishing, for example [MIT](https://choosealicense.com/licenses/mit/).
